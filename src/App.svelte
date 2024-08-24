@@ -43,7 +43,7 @@
   }} />
 
 <main class="ma1n">
-  <h1 class="title">CaretPositionHitmapViewer</h1>
+  <h1 class="title">CaretPositionHeatmapViewer</h1>
   <div class="left_block">
     <div>
       <h2>Dom Editor</h2>
@@ -75,7 +75,7 @@
   <address>
     <a href="https://github.com/Coreight98" target="_blank" rel="noopener noreferrer">Coregit98</a>
     <a
-      href="https://github.com/Coreight98/caretPositionHitmapViewer"
+      href="https://github.com/Coreight98/caretPositionHeatmapViewer"
       target="_blank"
       rel="noopener noreferrer">Demo Repository</a>
   </address>

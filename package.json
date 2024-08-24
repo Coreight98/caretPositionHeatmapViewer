@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Coreight98.github.io/caretPositionHitmapViewer/",
+  "homepage": "https://Coreight98.github.io/caretPositionHeatmapViewer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
